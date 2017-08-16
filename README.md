@@ -1,9 +1,13 @@
-:fire: :fire:
-# THE BINDER PROJECT HAS MIGRATED [HERE](https://github.com/jupyterhub/binderhub), SEE BELOW FOR THE NEW LINK
+# :dash: :dash: **The Binder Project is moving to a [new repo](https://github.com/jupyterhub/binderhub).** :dash: :dash:
 
-**New version:** https://github.com/jupyterhub/binderhub
 
-:fire: :fire:
+:books: Same functionality. Better performance for you. :books:
+
+Over the past few months, we've been improving Binder's architecture and infrastructure. We're retiring this repo as
+it will no longer be actively developed. All development will occur in the **new repo**, https://github.com/jupyterhub/binderhub.
+Thanks for updating your bookmarked links.
+
+# :dash: :dash: **The Binder Project is moving to a [new repo](https://github.com/jupyterhub/binderhub).** :dash: :dash:
 
 ---
 
